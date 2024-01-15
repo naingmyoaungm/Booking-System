@@ -1,0 +1,43 @@
+.content-box{
+border-collapse:collapse;
+margin:30px 20px;
+font-size:20px;
+color: black;
+box-shadow:-7px 7px 3px  #f3f3f3;
+border-radius:5px 5px 0 0;
+overflow:;
+
+}
+.content-box tr td{ 
+padding:10px;
+text-align:center;
+}
+
+.content-box thead tr{
+text-transform:uppercase;
+text-align:center;
+
+}
+.content-box thead tr{
+text-align:;
+background:black;
+background-repeat:no-repeat;
+color:white;
+font-weight:600;
+
+border-radius:;
+}
+.content-box tr td{
+padding:20px 20px;
+font-weight:;
+
+}
+.content-box tbody tr{
+border-bottom:1px solid #dddddd;
+}
+.content-box tbody tr:nth-child(1){
+background:#f3f3f3;
+}
+.content-box tbody tr:nth-last-child(1){
+border-bottom:1px solid black;
+}
